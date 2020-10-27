@@ -1,0 +1,31 @@
+E:\MVC Test\MVC Test\bin\MVC Test.dll.config
+E:\MVC Test\MVC Test\bin\MVC Test.dll
+E:\MVC Test\MVC Test\bin\MVC Test.pdb
+E:\MVC Test\MVC Test\bin\Antlr3.Runtime.dll
+E:\MVC Test\MVC Test\bin\EntityFramework.dll
+E:\MVC Test\MVC Test\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC Test\MVC Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\MVC Test\MVC Test\bin\Newtonsoft.Json.dll
+E:\MVC Test\MVC Test\bin\System.Net.Http.Formatting.dll
+E:\MVC Test\MVC Test\bin\System.Web.Http.dll
+E:\MVC Test\MVC Test\bin\System.Web.Http.WebHost.dll
+E:\MVC Test\MVC Test\bin\System.Web.Mvc.dll
+E:\MVC Test\MVC Test\bin\System.Web.Optimization.dll
+E:\MVC Test\MVC Test\bin\System.Web.Providers.dll
+E:\MVC Test\MVC Test\bin\System.Web.Razor.dll
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.Deployment.dll
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.dll
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.Razor.dll
+E:\MVC Test\MVC Test\bin\WebGrease.dll
+E:\MVC Test\MVC Test\bin\EntityFramework.xml
+E:\MVC Test\MVC Test\bin\Newtonsoft.Json.xml
+E:\MVC Test\MVC Test\bin\System.Net.Http.Formatting.xml
+E:\MVC Test\MVC Test\bin\System.Web.Http.xml
+E:\MVC Test\MVC Test\bin\System.Web.Http.WebHost.xml
+E:\MVC Test\MVC Test\bin\System.Web.Mvc.xml
+E:\MVC Test\MVC Test\bin\System.Web.Razor.xml
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.xml
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.Deployment.xml
+E:\MVC Test\MVC Test\bin\System.Web.WebPages.Razor.xml
+E:\MVC Test\MVC Test\obj\Debug\MVC Test.dll
+E:\MVC Test\MVC Test\obj\Debug\MVC Test.pdb
